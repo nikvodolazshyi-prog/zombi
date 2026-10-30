@@ -73,14 +73,18 @@
     <Compile Include="Assets\PixelZombieSurvivor\Scripts\Building\Turret.cs" />
     <Compile Include="Assets\PixelZombieSurvivor\Scripts\Core\CameraFollow2D.cs" />
     <Compile Include="Assets\PixelZombieSurvivor\Scripts\Pooling\IPoolable.cs" />
+    <Compile Include="Assets\PixelZombieSurvivor\Scripts\Building\GridManager.cs" />
+    <Compile Include="Assets\PixelZombieSurvivor\Scripts\Economy\CoinBurst.cs" />
     <Compile Include="Assets\PixelZombieSurvivor\Scripts\Building\BuildingPlacementController.cs" />
     <Compile Include="Assets\PixelZombieSurvivor\Scripts\Data\WeaponDataSO.cs" />
     <Compile Include="Assets\PixelZombieSurvivor\Scripts\Core\CurrencyManager.cs" />
     <Compile Include="Assets\PixelZombieSurvivor\Scripts\Waves\WaveManager.cs" />
     <Compile Include="Assets\PixelZombieSurvivor\Scripts\Enemies\Zombie.cs" />
     <Compile Include="Assets\PixelZombieSurvivor\Scripts\Core\GameState.cs" />
+    <Compile Include="Assets\PixelZombieSurvivor\Scripts\Core\CheatManager.cs" />
     <Compile Include="Assets\PixelZombieSurvivor\Scripts\Player\PlayerWeaponController.cs" />
     <Compile Include="Assets\PixelZombieSurvivor\Scripts\Core\FullscreenController.cs" />
+    <Compile Include="Assets\PixelZombieSurvivor\Scripts\Enemies\BossController.cs" />
     <Compile Include="Assets\PixelZombieSurvivor\Scripts\Data\GameDatabaseSO.cs" />
     <Compile Include="Assets\PixelZombieSurvivor\Scripts\Core\IDamageable.cs" />
     <Compile Include="Assets\PixelZombieSurvivor\Scripts\Combat\Projectile.cs" />
@@ -93,6 +97,7 @@
     <Compile Include="Assets\PixelZombieSurvivor\Scripts\Player\PlayerInputReader.cs" />
     <Compile Include="Assets\PixelZombieSurvivor\Scripts\Pooling\PooledObject.cs" />
     <Compile Include="Assets\PixelZombieSurvivor\Scripts\Building\BuildingBase.cs" />
+    <Compile Include="Assets\PixelZombieSurvivor\Scripts\Enemies\EnemyRegistry.cs" />
     <Compile Include="Assets\PixelZombieSurvivor\Scripts\Economy\ShopManager.cs" />
     <Compile Include="Assets\PixelZombieSurvivor\Scripts\Core\RuntimeSprites.cs" />
     <Compile Include="Assets\PixelZombieSurvivor\Scripts\Player\PlayerHealth.cs" />
@@ -106,6 +111,7 @@
     <Compile Include="Assets\PixelZombieSurvivor\Scripts\Building\MoneyGenerator.cs" />
     <Compile Include="Assets\PixelZombieSurvivor\Scripts\Player\PlayerBuffs.cs" />
     <Compile Include="Assets\PixelZombieSurvivor\Scripts\Core\AudioService.cs" />
+    <Compile Include="Assets\PixelZombieSurvivor\Scripts\Core\InputBindings.cs" />
     <Compile Include="Assets\PixelZombieSurvivor\Scripts\Core\SingletonBehaviour.cs" />
     <Compile Include="Assets\PixelZombieSurvivor\Scripts\Economy\Coin.cs" />
     <Compile Include="Assets\PixelZombieSurvivor\Scripts\Building\WorldHealthBar.cs" />
